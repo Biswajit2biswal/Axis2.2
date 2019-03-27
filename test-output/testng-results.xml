@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17306" started-at="2019-03-27T04:20:11Z" finished-at="2019-03-27T04:20:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17306" started-at="2019-03-27T04:20:11Z" finished-at="2019-03-27T04:20:28Z">
+      <class name="com.axis.testcases.SuAdminLoginPage">
+        <test-method status="PASS" signature="login()[pri:0, instance:com.axis.testcases.SuAdminLoginPage@27efef64]" name="login" is-config="true" duration-ms="6015" started-at="2019-03-27T04:20:11Z" finished-at="2019-03-27T04:20:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="verifyToLogin()[pri:0, instance:com.axis.testcases.SuAdminLoginPage@27efef64]" name="verifyToLogin" duration-ms="10510" started-at="2019-03-27T04:20:17Z" finished-at="2019-03-27T04:20:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyToLogin -->
+        <test-method status="PASS" signature="VerifySuAdminPage()[pri:0, instance:com.axis.testcases.SuAdminLoginPage@27efef64]" name="VerifySuAdminPage" duration-ms="52" started-at="2019-03-27T04:20:28Z" finished-at="2019-03-27T04:20:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifySuAdminPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.axis.testcases.SuAdminLoginPage@27efef64]" name="tearDown" is-config="true" duration-ms="683" started-at="2019-03-27T04:20:28Z" finished-at="2019-03-27T04:20:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.axis.testcases.SuAdminLoginPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
